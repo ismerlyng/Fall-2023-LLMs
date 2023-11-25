@@ -2,7 +2,7 @@
 
 ### Introduction and Methods 
 
-Before deciding to focus on for loops, I was interested in how well Large Language Models (LLMs) could summarize a YouTube video on a technical topic, such as coding - saving me time as a novice programmer. As a result, I created a LLM-powered YouTube summarizer with the goal of comparing content across different videos related to same topic - hence, for loops. Due to our usage of Python in this course, I decided that using for loops as a point of comparison across videos would not only be relevant, but generate a YouTube search with similar content, making it easier for me to see where the LLM could have gone wrong, and right. 
+Before deciding to focus on for loops, I was interested in how well Large Language Models (LLMs) could summarize a YouTube video on a technical topic, such as coding - saving me time as a novice programmer. As a result, I created a LLM-powered YouTube summarizer with the goal of comparing content across different videos related to same topic - hence, for loops. Due to our usage of Python in this course, I decided that using for loops as a point of comparison across videos would not only be relevant, but generate a YouTube search with similar content, making it easier for me to see where the LLM could have gone wrong, or even right.  
 
 To create the YouTube summarizer, I took the following steps: 
 
@@ -12,7 +12,7 @@ b) Generate transcription of MP4 file using Whisper, an automatic speech recogni
 
 c) Summarize transcription using LangChain, a library built on OpenAI's LLMs that is great for text summarization
 
-When I finished running the code, I ended up with a concise summary of the video I had started with. To make sure the LLM accurately captured the gist of the three videos on for loops that I selected, I watched them myself to assess where the LLM went right and wrong. 
+When I finished running the code, I ended up with a concise summary of the video I had started with. To make sure the LLM accurately captured the gist of the three videos on for loops that I selected, I watched them myself. 
 
 
 ### Results
