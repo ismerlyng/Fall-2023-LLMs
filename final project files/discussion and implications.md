@@ -2,7 +2,7 @@
 
 ### Introduction and Methods 
 
-Before deciding to focus on for loops, I was interested in how well Large Language Models (LLMs) could summarize a YouTube video on a technical topic, such as coding - saving me time as a novice programmer. As a result, I created a LLM-powered YouTube summarizer with the goal of comparing content across different videos related to same topic - hence, for loops. Due to our usage of Python in this course, I decided that using for loops as a point of comparison across videos would not only be relevant, but generate a YouTube search with similar content, making it easier for me to see where the LLM went wrong. 
+Before deciding to focus on for loops, I was interested in how well Large Language Models (LLMs) could summarize a YouTube video on a technical topic, such as coding - saving me time as a novice programmer. As a result, I created a LLM-powered YouTube summarizer with the goal of comparing content across different videos related to same topic - hence, for loops. Due to our usage of Python in this course, I decided that using for loops as a point of comparison across videos would not only be relevant, but generate a YouTube search with similar content, making it easier for me to see where the LLM could have gone wrong, and right. 
 
 To create the YouTube summarizer, I took the following steps: 
 
