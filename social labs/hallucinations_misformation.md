@@ -1,7 +1,5 @@
 ## Hallucinations and Misinformation
 
-November 26
-
 In the context of LLMs, [hallucinations](https://machinelearningmastery.com/a-gentle-introduction-to-hallucinations-in-large-language-models/) refer to the "phenomenon where the model generates text that is incorrect, nonsensical, or not real." [Misinformation](https://www.merriam-webster.com/dictionary/misinformation) is generally defined as "incorrect or misleading information." Misinformation typically manifests in the form of a LLM hallucination. 
 
 While several mitigation strategies are possible, such careful prompt engineering, hallucinations are not going away. In fact, the randomness behind the model output is often what we want in scenarios where we ask ChatGPT to give us an innovative recipe, for example. It could be said that every output is a hallucination. 
