@@ -1,0 +1,9 @@
+## Hallucinations and Misinformation
+
+November 26
+
+In the context of LLMs, [hallucinations](https://machinelearningmastery.com/a-gentle-introduction-to-hallucinations-in-large-language-models/) refer to the "phenomenon where the model generates text that is incorrect, nonsensical, or not real." [Misinformation](https://www.merriam-webster.com/dictionary/misinformation) is generally defined as "incorrect or misleading information." Misinformation typically manifests in the form of a LLM hallucination. 
+
+While several mitigation strategies are possible, such careful prompt engineering, hallucinations are not going away. In fact, the randomness behind the model output is often what we want in scenarios where we ask ChatGPT to give us an innovative recipe, for example. It could be said that every output is a hallucination. 
+
+The most fascinating part of the hallucination/misinformation debate is the [anthropomorphic,](https://www.merriam-webster.com/dictionary/anthropomorphic) or human-like, qualities that we assign to LLMs. Why are we so quick to trust what ChatGPT says? It may be how polite it sounds or how it seems like it's typing back to us as if we were having an iMessage conversation. Maybe it's because we prefer to trust it over trusting another person who may have different biases or opinions. Our lack of skepticism, or perhaps our lack of knowledge in being able to decipher what is real, are most likely due to an amalgamation of reasons that also contribute to our divisive sociopolitical climate. Nonetheless, these reasons prove that AI advancement must continue to harness the power of continued social science and psychological research. As easier as we may want to make our lives and search for knowledge/ideas, how we interpret what we see will inevitably shape how information is spread.
