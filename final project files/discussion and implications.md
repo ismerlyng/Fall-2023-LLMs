@@ -57,7 +57,7 @@ On the flipside, the Khan Academy LLM summary did not contain a reference to the
 
 ### May harm YouTube creators' revenue
 
-YouTubers mainly make money from ads that run on their videos (think the skippable ads at the beginning of the videos). If less people watch videos because they are summarizing the video content, it would decrease the revenue that creators generate from advertising, not to mention that it would hurt creators' general viewership. 
+YouTubers mainly make money from ads that run on their videos (think the skippable ads at the beginning of the videos). If less people watch videos because they are summarizing the video content, it would decrease the revenue that creators generate from advertising, not to mention that it would hurt creators' general viewership. In turn, it may discourage them from producing original content, and impact overall creative production.
 
 ### Threatens to spread misinformation/disinformation
 
