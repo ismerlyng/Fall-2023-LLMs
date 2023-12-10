@@ -65,7 +65,7 @@ It would be easy to trust a summary of a harmful video with wrong or misleading 
 
 ### May obliterate long-form content, or worse our attention span
 
-If this summarizer can tell me the takeaways of learning Python, I may not feel obliged to watch or read anything long ever again. It may perpetuate the decrease we have seen in our attention spans [in recent times}(https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans), as well as the rise in the consumption of short-form content on platforms like TikTok. For young people, this may mean poorer academic outcomes, as [research](https://www.sciencedirect.com/science/article/abs/pii/S0747563212001665?via%3Dihub has found that college students) with shorter attention spans are likely to spend more time on social media, and not as immersed in their learning environments.
+If this summarizer can tell me the takeaways of learning Python, I may not feel obliged to watch or read anything long ever again. It may perpetuate the decrease we have seen in our attention spans [in recent times](https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans), as well as the rise in the consumption of short-form content on platforms like TikTok. For young people, this may mean poorer academic outcomes, as [research](https://www.sciencedirect.com/science/article/abs/pii/S0747563212001665?via%3Dihub) has found that college students with shorter attention spans are likely to spend more time on social media, and not be as immersed in their learning environments.
 
 
 
