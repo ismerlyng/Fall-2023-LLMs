@@ -2,7 +2,10 @@
 
 ### Introduction and Methods 
 
-Before deciding to focus on for loops, I was interested in how well Large Language Models (LLMs) could summarize a YouTube video on a technical topic, such as coding - saving me time as a novice programmer. As a result, I created a LLM-powered YouTube summarizer with the goal of comparing content across different videos related to same topic - hence, for loops. Due to our usage of Python in this course, I decided that using for loops as a point of comparison across videos would not only be relevant, but generate a YouTube search with similar content, making it easier for me to see where the LLM could have gone wrong, or even right.  
+[Research](https://www.thinkwithgoogle.com/consumer-insights/consumer-trends/youtube-tutorial-video-statistics/) has shown that users are three times more likely to consult YouTube videos to learn about a product than they are to read instructions. While more people, especially Gen Z, gravitate towards the [short-form](https://www.uschamber.com/co/grow/marketing/are-short-form-or-long-form-videos-better-for-engagement) content (typically less than 10 minutes) on TikTok, there is still value in the long-form content that YouTubers create - otherwise, many of the popular YouTube channels would cease to have millions of subscribers as they do now. However, many YouTube videos on technical topics can be full of jargon and hard to understand if you are not familiar with the content, making you spend hours watching videos on different channels. The YouTube summarizer aims to solve this problem with the help of a Large Language Model (LLM). 
+
+I decided to focus on a YouTube search ran by many people learning to code in Python: "how to run for loops Python." A [for loop](https://www.w3schools.com/python/python_for_loops.asp) is a function that iterates over a sequence, which can contain a list of numbers, for example. They can be tricky to learn and run as a novice programmer, making them an excellent but succinct point of comparison for the LLM-powered YouTube summarizer.
+
 
 To create the YouTube summarizer, I took the following steps: 
 
@@ -44,10 +47,25 @@ Bro Code said "use for loops to execute a block of code a fixed number of times"
 
 ### Discussion
 
-These are summaries, after all, so it's probably okay that they leave out some of the additional details from the video. If I wanted more detail, I could simply read the transcriptions. That being said, the Khan Academy LLM summary did not contain a reference to the visual component of the video where he broke down a range function, which I find helpful as a visual learner.  Based on the LLM summaries alone, I would end up picking the Bro Code video (even if the video I really would have preferred to watch is Khan Academy's video). I could watch the videos like I did for this project, but I end up spending more time on getting the information I need, instead of saving time like I wanted to from the start. 
+### Saves time, but mainly on longer videos 
 
-Now, does a comprehensive, accurate summary guarantee that the video I end up watching is the one to trust? What if it teaches me to run a for loop all wrong? Ultimately, this would fall on me, rather than the LLM. I could simply decide to watch one video and trust that it is showing me the correct code, or I could look at the other videos the LLM summarized, and compare for myself. When it comes to browsing the YouTube content, the LLM-powered YouTube summarizer provides a starting point for me as the user, and could give me more control over which content I want to prioritize. 
+The LLM summaries captured the main points of each video, hypothetically saving me time in picking which video would explain for loops the best. I also had the transcript from the process, so I could always refer back to that if I needed more detail. However, the summarizer would be most beneficial if I wanted to avoid watching much longer technical videos, say, an hour-long video. The videos I summarized for this project were around 10 minutes or less - not a huge time saver over going through the LLM summary process (i.e. getting URL, waiting for code to run, etc.).
 
-However, it could harm YouTubers' viewership if more people were to take screen the content through the summarizer before watching any videos. Among those who benefit would be students, like myself, and professionals who may consult YouTube for a specific task. 
+### Likely to not cater to visual learners
+
+On the flipside, the Khan Academy LLM summary did not contain a reference to the visual component of the video where he broke down a range function, which I find helpful as a visual learner. Based on the LLM summaries alone, I would end up picking the Bro Code video (even if the video I really would have preferred to watch is Khan Academy's video). Ultimately, the summarizer does not cater to different types of learners. 
+
+### May harm YouTube creators' revenue
+
+YouTubers mainly make money from ads that run on their videos (think the skippable ads at the beginning of the videos). If less people watch videos because they are summarizing the video content, it would decrease the revenue that creators generate from advertising, not to mention that it would hurt creators' general viewership. 
+
+### Threatens to spread misinformation/disinformation
+
+It would be easy to trust a summary of a harmful video with wrong or misleading information, especially if it sounds like what the title of the video suggests. But if were to actually watch the video, we might see some red flags - maybe based on the creator's tone or even if we read the comments section. Trusting an LLM to filter out misinformation and/or disinformation takes power away from us as users to decide what it right to consume on the internet. 
+
+### May obliterate long-form content, or worse our attention span
+
+If this summarizer can tell me the takeaways of learning Python, I may not feel obliged to watch or read anything long ever again. It may perpetuate the decrease we have seen in our attention spans [in recent times}(https://www.apa.org/news/podcasts/speaking-of-psychology/attention-spans), as well as the rise in the consumption of short-form content on platforms like TikTok. For young people, this may mean poorer academic outcomes, as [research](https://www.sciencedirect.com/science/article/abs/pii/S0747563212001665?via%3Dihub has found that college students) with shorter attention spans are likely to spend more time on social media, and not as immersed in their learning environments.
+
 
 
